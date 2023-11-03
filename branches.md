@@ -2,6 +2,8 @@
 
 ## What to do when there are conflicts preventing a merge.
 
+Fetch changes from your remote, then merge or pull from the remote branch you are having the conflicts with _on your local feature branch_, then push.
+
 Use VS Code's built-in conflict resolution editor!
 
 ## COMP423 / COMP590 Branching Conventions
