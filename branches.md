@@ -2,7 +2,7 @@
 
 ## What to do when there are conflicts preventing a merge.
 
-TODO
+Use VS Code's built-in conflict resolution editor!
 
 ## COMP423 / COMP590 Branching Conventions
 
