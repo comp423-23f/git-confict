@@ -4,6 +4,8 @@
 
 Fetch changes from your remote, then merge or pull from the remote branch you are having the conflicts with _on your local feature branch_, then push.
 
+Use VS Code's built-in conflict resolution editor!
+
 ## COMP423 / COMP590 Branching Conventions
 
 For coursework, the `stage` branch is deployed to your team's cloud infrastructure. The `stage` branch serves as your team's "main" branch, in the sense that when you merge work to it your work will be deployed. The `stage` branch is also what your individual branches should be based on and merged back into.
